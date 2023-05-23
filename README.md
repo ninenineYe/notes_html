@@ -107,3 +107,6 @@ width：规定表格的宽度
 跨列合并时目标单元格为最左侧单元格
 列表标签
 列表是用来布局的
+<input>表单元素。type属性，如type=“text”等
+name属性定义input的名称，value定义input的值，checked规定此input元素首次加载时应当被选中，maxlength规定输入字段中的字符的最大长度，属性值应为正整数。
+radio单选框；checkbox复选框；password密码框
